@@ -1,0 +1,24 @@
+package com.practice;
+
+enum  num {
+
+    MONDAY,TUESDAY,WEDNESDAY;
+
+     num(){
+         System.out.println("Days: "+this.toString());
+    }
+
+
+}
+
+public class Enum {
+
+    static public void main(String[] args) {
+
+
+
+
+    }
+}
+
+
